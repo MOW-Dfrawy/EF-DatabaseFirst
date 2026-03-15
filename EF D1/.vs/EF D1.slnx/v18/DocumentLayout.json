@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|c:\\users\\medod\\downloads\\dot net\\entity framwork\\ef databasefirst\\ef d1\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|solutionrelative:models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|c:\\users\\medod\\downloads\\dot net\\entity framwork\\ef databasefirst\\ef d1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|c:\\users\\medod\\downloads\\dot net\\entity framwork\\ef databasefirst\\ef d1\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|solutionrelative:models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|c:\\users\\medod\\downloads\\dot net\\entity framwork\\ef databasefirst\\ef d1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|c:\\users\\medod\\downloads\\dot net\\entity framwork\\ef databasefirst\\ef d1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E44D45B-97A0-48F3-E6E8-C014142A73BC}|EF D1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:54:12.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:33:19.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Models\\Topic.cs",
+              "RelativeToolTip": "Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:53:24.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:49:52.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Models\\ITIContext.cs",
+              "RelativeDocumentMoniker": "Models\\ITIContext.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Entity Framwork\\EF DatabaseFirst\\EF D1\\Models\\ITIContext.cs",
+              "RelativeToolTip": "Models\\ITIContext.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:46:48.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
